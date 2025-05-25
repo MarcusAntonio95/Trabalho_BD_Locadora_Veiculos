@@ -3,7 +3,7 @@
 namespace Trabalho_BD_Locadora_Veiculos
 {
     // classe do objeto
-    class Veiculo
+    public class Veiculo
     {
         public int Id { get; set; }
         public string Modelo { get; set; }

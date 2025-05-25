@@ -6,7 +6,7 @@ using Trabalho_BD_Locadora_Veiculos;
 namespace Trabalho_BD_Locadora_Veiculos
 {
     //classe de implementação de Create, Read e Update no Banco de Dados
-    class CRU_veiculo 
+    public class CRU_veiculo 
     {
         //identificação do BD
         private string connectionString = "Host=localhost;Username=postgres;Password=dbadmin;Database=locadora_veiculos";
